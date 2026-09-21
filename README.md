@@ -1,4 +1,4 @@
-# 100 Days of Code — C Programming
+#  C Programming
 
 Daily code logs and practice exercises tracking my journey learning programming fundamentals and building projects in C.
 
