@@ -89,7 +89,8 @@ This repo contains all the programs I wrote while learning C, organized topic by
 
 | Program | Description |
 | --- | --- |
-| Coming soon | Programs here will cover reading from and writing to files. |
+| `Read-File.c` | Opens a text file in read mode and prints its contents line by line using `fgets()`. |
+| `Write-File.c` | Opens a text file in write mode and writes a string to it using `fprintf()`. |
 
 ## Projects
 
