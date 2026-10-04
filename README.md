@@ -16,6 +16,8 @@ This repo contains all the programs I wrote while learning C, organized topic by
 ├── 07-pointers/        # Pointer basics and pointer arithmetic
 ├── 08-structures/      # Structs and arrays of structs
 ├── 09-File_handling/   # File input/output
+├── 10-Structures/      # Structures basics
+├── 11-Enums/           # Enumerations
 ├── projects/           # Small end-to-end projects
 └── README.md
 ```
@@ -91,6 +93,18 @@ This repo contains all the programs I wrote while learning C, organized topic by
 | --- | --- |
 | `Read-File.c` | Opens a text file in read mode and prints its contents line by line using `fgets()`. |
 | `Write-File.c` | Opens a text file in write mode and writes a string to it using `fprintf()`. |
+
+## 10 — Structures
+
+| Program | Description |
+| --- | --- |
+| `Basic.c` | Basics of declaring and using a struct. |
+
+## 11 — Enums
+
+| Program | Description |
+| --- | --- |
+| `Enums-Basics.c` | Declares an `enum level` with `LOW`, `MEDIUM`, `HIGH` and prints the assigned constant. |
 
 ## Projects
 
